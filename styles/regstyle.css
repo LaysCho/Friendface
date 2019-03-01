@@ -1,0 +1,42 @@
+
+
+body{
+  background-color: lightblue;
+}
+header{
+  font-size: 20px;
+  text-align: center;
+}
+
+input[type=text]{
+  width: 300px;
+  height: 45px;
+  border: solid black 2px;
+  border-radius: 4px;
+  font-size: 20px;
+}
+input[type=password]{
+  width: 300px;
+  height: 45px;
+  border: solid black 2px;
+  border-radius: 4px;
+  font-size: 20px;
+}
+p{
+  font-size: 30px;
+}
+
+.infos{
+  border: solid white 2px;
+  padding: 30px 100px;
+  border-radius: 4px;
+  margin: 80px 36%;
+  padding: 60px 100px;
+}
+
+.big-button {
+    font-size: 30px;
+    border-radius: 10px;
+    margin-top: 5px;
+
+}
